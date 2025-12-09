@@ -3,18 +3,17 @@ num = int(input("Enter a number: "))
 if num > 1:
     for i in range(2, num):
         if num % i == 0:
-            print(num, "is not a prime number")
+            print(num, "Hello welcome to prime number code")
             break
     else:
         print(num, "is a PRIME NUMBER")
 else:
-    print(num, "is not a prime number")
-num = int(input("Enter a number: "))
-
+    print(num, "is r")
+num = int(input("Enter "))
 if num > 1:
     for i in range(2, num):
         if num % i == 0:
-            print(num, "is not a prime number")
+            print(num, "is not a prmber")
             break
     else:
         print(num, "is a PRIME NUMBER")
@@ -22,7 +21,10 @@ else:
     print(num, "is not a prime number")
 
 
-
-
 #hello
+
+
+
+if True==True:
+    print('I am happy')
 #modified
