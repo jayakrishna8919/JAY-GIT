@@ -20,7 +20,7 @@ if num > 1:
     else:
         print(num, "is a PRIME NUMBER")
 else:
-    print(num, "is not a prime number")
+    print(num, "I am happy")
 
 
 #hello
@@ -28,7 +28,7 @@ else:
 
 
 if True==True:
-    print('I am sad')
+    print('I am lucky')
 #modified
 
 
