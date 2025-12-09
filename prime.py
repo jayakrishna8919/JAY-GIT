@@ -1,9 +1,11 @@
+#my code
+
 num = int(input("Enter a number: "))
 
 if num > 1:
     for i in range(2, num):
-        if num % i == 0:
-            print(num, "Hello welcome to prime number code")
+        if num + i == 0:
+            print(num, "is not a prime number")
             break
     else:
         print(num, "is a PRIME NUMBER")
@@ -28,3 +30,22 @@ else:
 if True==True:
     print('I am happy')
 #modified
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mycode
