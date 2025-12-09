@@ -28,7 +28,7 @@ else:
 
 
 if True==True:
-    print('I am sad')
+    print('I am lucky')
 #modified
 
 
