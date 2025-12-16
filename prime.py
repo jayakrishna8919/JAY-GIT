@@ -27,7 +27,7 @@ else:
 
 
 
-if True==True:
+if True==False:
     print('I am lucky')
 #modified
 
